@@ -29,6 +29,7 @@ def save_to_csv(name,wsd):     #func that saves scraped data to CSV file. Will b
     data = wsd
     csv_file = open(os.path.expanduser(name),'wb')
     csv_file.write(bytes(data,encoding='ascii', errors='igonore'))
+    return csv_file
 
 #Running Code
 scrap_loop = True
