@@ -1,0 +1,40 @@
+AL_AS,The Anniston Star,Anniston,AL,USA,33.6967391967773,-85.8234329223633,http://www.annistonstar.com,North America
+AL_DD,The Decatur Daily,Decatur,AL,country:USA,34.6028900146484,-86.9865112304688,http://www.decaturdaily.com,North America
+AL_DE,Dothan Eagle,Dothan,AL,USA,31.2255172729492,-85.3936309814453,http://www.dothaneagle.com,North America
+AL_EL,The Enterprise Ledger,Enterprise,AL,USA,31.2483730316162,-85.3756256103516,http://www.eprisenow.com,North America
+AL_TD,TimesDaily,Florence,AL,USA,34.7995376586914,-87.677467346191,http://www.timesdaily.com,North America
+AL_MA,Montgomery Advertiser,Montgomery,AL,USA,32.3790512084961,-86.3142242431641,http://www.montgomeryadvertiser.com,North America
+AL_TN,The Tuscaloosa News,Tuscaloosa,AL,USA,33.2102966308594,-87.5744247436523,http://www.tuscaloosanews.com,North America
+AK_ADN,Anchorage Daily News,Anchorage,AK,USA,61.2128257751465,-149.811965942383,http://www.adn.com,North America
+AK_FDNM,Fairbanks Daily News-Miner,Fairbanks,AK,USA,64.8461227416992,-147.722412109375,http://www.newsminer.com/,North America
+AK_JE,The Juneau Empire,Juneau,AK,USA,58.3287773132324,-134.472381591797,http://www.juneauempire.com,North America
+AZ_TD,The Dispatch,Casa Grande,AZ,USA,32.8779220581055,-111.754577636719,http://www.trivalleycentral.com,North America
+AR_SR,The Sentinel-Record,Hot Springs,AR,USA,34.5108413696289,-93.051872253418,http://www.hotsr.com,North America
+CA_AJ,The Auburn Journal,Auburn,CA,USA,38.9004974365234,-121.069801330566,http://www.auburnjournal.com,North America
+NY_BDN,The Batavia Daily News,Batavia,NY,USA,42.99549,-78.20596,http://thedailynewsonline.com,North America
+NY_BN,The Buffalo News,Buffalo,NY,USA,42.8772506713867,-78.8761291503906,http://www.buffalonews.com,North America
+NY_ND,Newsday,Long Island,NY,USA,40.758373260498,-73.9815368652344,http://www.newsday.com,North America
+NY_AMNY,AM New York,New York, NY,USA,40.748348236084,-73.991569519043,http://www.amny.com,North America
+NY_DN,Daily News,New York,NY,USA,40.7144889831543,-74.0072555541992,http://www.nydailynews.com,North America
+NY_ME",Metro - New York Edition,New York,NY,USA,40.7065734863281,-74.0098037719727,http://www.metro.us/newyork,North America
+NY_NYP,New York Post,New York,NY,USA,40.7145500183105,-74.0071258544922,http://www.nypost.com,North America
+WSJ,The Wall Street Journal,New York,NY,USA,40.7110824584961,-74.0146484375,http://www.wsj.com,North America
+ALG_LJI,Le Jeune Ind,Algiers,,Algeria,36.7528877258301,3.04204797744751,http://www.jeune-independant.net,Africa
+AND_DDA,Diari d'Andorra,Andorra La Vella,,Andorra,42.505867,1.529077,http://www.diariandorra.ad,Europe
+ARG_CLA,Clarin,Buenos Aires,,Argentina,-34.615234375,-58.4296531677246,http://www.clarin.com/,South America
+AUS_BM,The Border Mail,Albury-Wodonga,,Australia,-36.1118507385254,146.860687255859,http://www.bordermail.com.au ,Oceania
+AUS_CM,The Courier-Mail,Brisbane,,Australia,-27.4681739807129,153.028167724609,http://www.couriermail.com.au/,Oceania
+AUT_KZ,Kleine Zeitung,Graz,,Austria,47.0598106384277,15.439414024353,http://www.kleinezeitung.at,Europe
+AUT_KUR,Kurier,Vienna,,Austria,48.1994934082031,16.3460941314697,http://www.kurier.at,Europe
+BRA_CIDADE,Jornal da Cidade,Bauru,SP,Brazil,-22.3325881958008,-49.0784606933594,http://www.jcnet.com.br,South America
+BRA_HED,Hoje Em Dia,Belo Horizonte,BH,Brazil,-19.9186413735151,-43.9356914162636,http://www.hojeemdia.com.br,South America
+BRA_CB,Correio Braziliense,Brasilia,DF,Brazil,-15.7921090722084,-47.8977466374636,http://www.correioweb.com.br,South America
+BRARJ_EX,EXTRA,Rio de Janeiro,RJ,Brazil,-22.9087963104248,-43.1967391967773,http://extra.globo.com,South America
+BUL_DUMA,DUMA,Sofia,,Bulgaria,42.6719741821289,23.3638000488281,http://www.duma.bg,Europe
+CAN_CH,Calgary Herald,Calgary,,Canada,51.0515403747559,-114.014846801758,http://www.canada.com/calgary/calgaryherald/index.html,North America
+CAN_JM,Le Journal de Montreal,Montreal,,Canada,45.5123329162598,-73.5543670654297,http://www2.canoe.com/jdem/abonnement/,North America
+CHI_CD,China Daily,Beijing,,China,39.9046669006348,116.408195495605,http://chinadaily.com.cn,Asia
+CHI_PD,Peoples Daily,Beijing,,China,39.9210357666016,116.44319152832,http://www.people.com.cn/,Asia
+IND_PRAHS,Prahaar – Sindhudurg,Sindhudurg,,India,16.3492183685303,73.5594100952148,http://www.prahaar.in,Asia
+IRAN_SH,Shahrara,Mashhad,,Iran,36.298511505127,59.6049461364746,http://www.shahrara.com,Middle East
+IRAN_HAM,Hamshahri Newspaper,Tehran,,Iran,35.6895408630371,51.4146842956543,http://www.hamshahrionline.ir,Middle East
